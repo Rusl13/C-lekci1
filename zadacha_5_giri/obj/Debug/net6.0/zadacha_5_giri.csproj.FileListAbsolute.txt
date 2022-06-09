@@ -1,0 +1,15 @@
+C:\Users\Ruslan\Desktop\exap\zadacha_5_giri\obj\Debug\net6.0\zadacha_5_giri.csproj.AssemblyReference.cache
+C:\Users\Ruslan\Desktop\exap\zadacha_5_giri\obj\Debug\net6.0\zadacha_5_giri.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ruslan\Desktop\exap\zadacha_5_giri\obj\Debug\net6.0\zadacha_5_giri.AssemblyInfoInputs.cache
+C:\Users\Ruslan\Desktop\exap\zadacha_5_giri\obj\Debug\net6.0\zadacha_5_giri.AssemblyInfo.cs
+C:\Users\Ruslan\Desktop\exap\zadacha_5_giri\obj\Debug\net6.0\zadacha_5_giri.csproj.CoreCompileInputs.cache
+C:\Users\Ruslan\Desktop\exap\zadacha_5_giri\bin\Debug\net6.0\zadacha_5_giri.exe
+C:\Users\Ruslan\Desktop\exap\zadacha_5_giri\bin\Debug\net6.0\zadacha_5_giri.deps.json
+C:\Users\Ruslan\Desktop\exap\zadacha_5_giri\bin\Debug\net6.0\zadacha_5_giri.runtimeconfig.json
+C:\Users\Ruslan\Desktop\exap\zadacha_5_giri\bin\Debug\net6.0\zadacha_5_giri.dll
+C:\Users\Ruslan\Desktop\exap\zadacha_5_giri\bin\Debug\net6.0\zadacha_5_giri.pdb
+C:\Users\Ruslan\Desktop\exap\zadacha_5_giri\obj\Debug\net6.0\zadacha_5_giri.dll
+C:\Users\Ruslan\Desktop\exap\zadacha_5_giri\obj\Debug\net6.0\refint\zadacha_5_giri.dll
+C:\Users\Ruslan\Desktop\exap\zadacha_5_giri\obj\Debug\net6.0\zadacha_5_giri.pdb
+C:\Users\Ruslan\Desktop\exap\zadacha_5_giri\obj\Debug\net6.0\zadacha_5_giri.genruntimeconfig.cache
+C:\Users\Ruslan\Desktop\exap\zadacha_5_giri\obj\Debug\net6.0\ref\zadacha_5_giri.dll
