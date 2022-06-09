@@ -1,0 +1,15 @@
+C:\Users\Ruslan\Desktop\exap\DIVchisel\bin\Debug\net6.0\DIVchisel.exe
+C:\Users\Ruslan\Desktop\exap\DIVchisel\bin\Debug\net6.0\DIVchisel.deps.json
+C:\Users\Ruslan\Desktop\exap\DIVchisel\bin\Debug\net6.0\DIVchisel.runtimeconfig.json
+C:\Users\Ruslan\Desktop\exap\DIVchisel\bin\Debug\net6.0\DIVchisel.dll
+C:\Users\Ruslan\Desktop\exap\DIVchisel\bin\Debug\net6.0\DIVchisel.pdb
+C:\Users\Ruslan\Desktop\exap\DIVchisel\obj\Debug\net6.0\DIVchisel.csproj.AssemblyReference.cache
+C:\Users\Ruslan\Desktop\exap\DIVchisel\obj\Debug\net6.0\DIVchisel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ruslan\Desktop\exap\DIVchisel\obj\Debug\net6.0\DIVchisel.AssemblyInfoInputs.cache
+C:\Users\Ruslan\Desktop\exap\DIVchisel\obj\Debug\net6.0\DIVchisel.AssemblyInfo.cs
+C:\Users\Ruslan\Desktop\exap\DIVchisel\obj\Debug\net6.0\DIVchisel.csproj.CoreCompileInputs.cache
+C:\Users\Ruslan\Desktop\exap\DIVchisel\obj\Debug\net6.0\DIVchisel.dll
+C:\Users\Ruslan\Desktop\exap\DIVchisel\obj\Debug\net6.0\refint\DIVchisel.dll
+C:\Users\Ruslan\Desktop\exap\DIVchisel\obj\Debug\net6.0\DIVchisel.pdb
+C:\Users\Ruslan\Desktop\exap\DIVchisel\obj\Debug\net6.0\DIVchisel.genruntimeconfig.cache
+C:\Users\Ruslan\Desktop\exap\DIVchisel\obj\Debug\net6.0\ref\DIVchisel.dll
